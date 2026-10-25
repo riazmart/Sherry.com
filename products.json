@@ -1,0 +1,83 @@
+{
+  "settings": {
+    "whatsapp": "923000000000",
+    "stripMessages": [
+      "Free Shipping Worldwide",
+      "Premium Quality",
+      "Customer Support"
+    ],
+    "heroTitle": "Style Defines Your Personality",
+    "heroImage": ""
+  },
+  "collections": [
+    "Suits",
+    "Three Piece Suits",
+    "Blazers",
+    "Overcoats",
+    "Jackets",
+    "Formal Wear",
+    "Accessories"
+  ],
+  "products": [
+    {
+      "id": "suit-001",
+      "name": "Navy Blue Slim Fit Suit",
+      "collection": "Suits",
+      "price": 199.0,
+      "oldPrice": 249.0,
+      "image": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=650&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?auto=format&fit=crop&w=650&q=85"
+      ],
+      "description": "A timeless navy suit for formal occasions."
+    },
+    {
+      "id": "suit-002",
+      "name": "Grey Three Piece Suit",
+      "collection": "Three Piece Suits",
+      "price": 254.0,
+      "oldPrice": 299.0,
+      "image": "https://images.unsplash.com/photo-1617137968427-85924c800a22?auto=format&fit=crop&w=650&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1617137968427-85924c800a22?auto=format&fit=crop&w=650&q=85"
+      ],
+      "description": "Classic three-piece tailoring."
+    },
+    {
+      "id": "blazer-001",
+      "name": "Black Classic Blazer",
+      "collection": "Blazers",
+      "price": 164.0,
+      "oldPrice": 199.0,
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=650&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=650&q=85"
+      ],
+      "description": "A versatile black blazer."
+    },
+    {
+      "id": "coat-001",
+      "name": "Camel Overcoat",
+      "collection": "Overcoats",
+      "price": 179.0,
+      "oldPrice": 229.0,
+      "image": "https://images.unsplash.com/photo-1544923246-77307dd654cb?auto=format&fit=crop&w=650&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1544923246-77307dd654cb?auto=format&fit=crop&w=650&q=85"
+      ],
+      "description": "A refined overcoat for cooler days."
+    },
+    {
+      "id": "jacket-001",
+      "name": "Winter Jacket",
+      "collection": "Jackets",
+      "price": 149.0,
+      "oldPrice": 179.0,
+      "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=650&q=85",
+      "images": [
+        "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=650&q=85"
+      ],
+      "description": "A practical everyday jacket."
+    }
+  ]
+}
