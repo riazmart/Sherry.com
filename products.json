@@ -17,5 +17,19 @@
     "Jackets",
     "Accessories"
   ],
-  "products": []
+  "products": [
+    {
+      "id": "pmvnaai6g-tjy5",
+      "name": "Rgb",
+      "collection": "Blazers",
+      "price": 5632,
+      "image": "images/p-mvnaai6g-qz91jx.jpg",
+      "images": [
+        "images/p-mvnaai6g-qz91jx.jpg",
+        "images/p-mvnaai6g-ba9fko.jpg"
+      ],
+      "oldPrice": 6800,
+      "description": "Vcs"
+    }
+  ]
 }
