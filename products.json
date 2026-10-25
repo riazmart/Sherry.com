@@ -1,0 +1,21 @@
+{
+  "settings": {
+    "whatsapp": "",
+    "stripMessages": [
+      "Men's Formal Wear",
+      "Tailored Style",
+      "Worldwide Shipping"
+    ],
+    "heroTitle": "Style Defines Your Personality",
+    "heroImage": ""
+  },
+  "collections": [
+    "Suits",
+    "Three Piece Suits",
+    "Blazers",
+    "Overcoats",
+    "Jackets",
+    "Accessories"
+  ],
+  "products": []
+}
